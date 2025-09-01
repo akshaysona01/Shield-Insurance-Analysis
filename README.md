@@ -4,6 +4,8 @@
 Shield Insurance, operating across major Indian cities like Delhi and Mumbai, wanted a 360° view of their business performance. The management team needed insights into customer growth, revenue trends, and policy performance across different sales channels and demographics.
 This project consolidates these insights into a single interactive Power BI dashboard for faster, data-driven decision-making.
 
+
+
 ##🔗 Links
 📊 Live Power BI Dashboard - https://app.powerbi.com/view?r=eyJrIjoiNGM0ZWQyYTMtMDhhYS00M2RkLTg2YTktYzY0Nzg1MDNhYzE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
