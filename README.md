@@ -5,9 +5,7 @@ Shield Insurance, operating across major Indian cities like Delhi and Mumbai, wa
 This project consolidates these insights into a single interactive Power BI dashboard for faster, data-driven decision-making.
 
 
-
-##🔗 Links
-📊 Live Power BI Dashboard - https://app.powerbi.com/view?r=eyJrIjoiNGM0ZWQyYTMtMDhhYS00M2RkLTg2YTktYzY0Nzg1MDNhYzE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## 📊 Live Power BI Dashboard - https://app.powerbi.com/view?r=eyJrIjoiNGM0ZWQyYTMtMDhhYS00M2RkLTg2YTktYzY0Nzg1MDNhYzE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## 🎯 Problem Statement
 <img width="1501" height="843" alt="image" src="https://github.com/user-attachments/assets/159312f5-a621-489a-8665-cbcfa50f7ced" />
